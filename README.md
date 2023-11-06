@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, I'm singh bisht
+
+Welcome to my Github profile !
+- I'm a passionate software developer.
+- I love working with Python, Javascript, and machine learning.
+- connect with me on [LinkedIn](https://www.linkedin.com/in/exampleuser/)
